@@ -4,8 +4,9 @@
   height: 65px;
   border: 1px solid black;
   margin-left: 10px;
+  margin-down: 70px;
   background-clip: content-box;
-  padding: 20px
+  padding: 10px
 }
 #second {
   background-color: red;
@@ -13,8 +14,12 @@
   height: 65px;
   border: 1px solid black;
   margin-left: 10px;
+  margin-down: 10px;
   background-clip: content-box;
-  padding: 20px
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-down: 25px;
+  padding-up: 25px;
 }
 #third {
   background-color: red;
