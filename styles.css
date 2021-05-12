@@ -1,9 +1,36 @@
-div {
+#first {
   background-color: red;
   width: 65px;
   height: 65px;
   border: 1px solid black;
   margin-left: 10px;
   background-clip: content-box;
+  padding: 20px
 }
-
+#second {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  border: 1px solid black;
+  margin-left: 10px;
+  background-clip: content-box;
+  padding: 20px
+}
+#third {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  border: 1px solid black;
+  margin-left: 10px;
+  background-clip: content-box;
+  padding: 20px
+}
+#fourth {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  border: 1px solid black;
+  margin-left: 10px;
+  background-clip: content-box;
+  padding: 20px
+}
